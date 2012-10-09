@@ -3,5 +3,5 @@
 
 require_once __DIR__.'/../../tmhUtilities.php';
 
-class tmhUtilities_tmhUtilities extends tmhUtilities {
+class tmhOAuth_tmhUtilities extends tmhUtilities {
 }
